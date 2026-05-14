@@ -6,8 +6,8 @@ A full-stack storytelling app where users can create, edit, and share stories wi
 
 ![StoryBooks Screenshot](./readMeFiles/StoryBooks.png)
 ![StoryBooks Screenshot](./readMeFiles/Screenshot%202026-05-14%20at%203.17.23 PM.png)
-![StoryBooks Screenshot](./readMeFiles/StoryBooks.png)
-![StoryBooks Screenshot](./readMeFiles/StoryBooks.png)
+![StoryBooks Screenshot](./readMeFiles/sbFileStorageImg.png)
+![StoryBooks Screenshot](./readMeFiles/sbProjectimg.png)
 
 ---
 
